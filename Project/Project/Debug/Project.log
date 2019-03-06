@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\user\desktop\project\project\source.cpp(94): warning C4101: empty: неиспользованная локальная переменная
+c:\users\user\desktop\project\project\source.cpp(139): warning C4101: empty: неиспользованная локальная переменная
+c:\users\user\desktop\project\project\source.cpp(185): warning C4101: empty: неиспользованная локальная переменная
+c:\users\user\desktop\project\project\source.cpp(578): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\user\desktop\project\project\source.cpp(594): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\user\desktop\project\project\source.cpp(604): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\user\desktop\project\project\source.cpp(612): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\user\desktop\project\project\source.cpp(620): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\user\desktop\project\project\source.cpp(510): warning C4715: get_i: значение возвращается не при всех путях выполнения
+c:\users\user\desktop\project\project\source.cpp(530): warning C4715: get_j: значение возвращается не при всех путях выполнения
+c:\users\user\desktop\project\project\source.cpp(679): warning C4715: rec: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\User\Desktop\Project\Debug\Project.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project.vcxproj -> C:\Users\User\Desktop\Project\Debug\Project.exe
